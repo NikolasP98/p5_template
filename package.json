@@ -1,0 +1,20 @@
+{
+  "name": "template_p5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikolasP98/p5_template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikolasP98/p5_template/issues"
+  },
+  "homepage": "https://github.com/NikolasP98/p5_template#readme"
+}
